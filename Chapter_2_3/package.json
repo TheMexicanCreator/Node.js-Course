@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Test made in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "audit": "npm audit && node app2.js"
+  },
+  "author": "Roberto García",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3"
+  }
+}
